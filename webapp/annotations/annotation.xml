@@ -12,6 +12,7 @@
                     <Collection>
                         <PropertyPath>TravelId</PropertyPath>
                         <PropertyPath>Status</PropertyPath>
+                        <PropertyPath>CustomerId</PropertyPath>
                     </Collection>
                 </Annotation>
             </Annotations>
