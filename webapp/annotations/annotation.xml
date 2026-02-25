@@ -11,7 +11,7 @@
                 <Annotation Term="UI.SelectionFields">
                     <Collection>
                         <PropertyPath>TravelId</PropertyPath>
-                        <PropertyPath>Createdby</PropertyPath>
+                        <PropertyPath>Status</PropertyPath>
                     </Collection>
                 </Annotation>
             </Annotations>
