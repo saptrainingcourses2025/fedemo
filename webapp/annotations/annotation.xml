@@ -10,7 +10,8 @@
             <Annotations Target="SAP.ZC_TY_TRAVELType">
                 <Annotation Term="UI.SelectionFields">
                     <Collection>
-                        <PropertyPath>TravelId</PropertyPath>                        
+                        <PropertyPath>TravelId</PropertyPath>
+                        <PropertyPath>Createdby</PropertyPath>
                     </Collection>
                 </Annotation>
             </Annotations>
